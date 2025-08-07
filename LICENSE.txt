@@ -24,3 +24,18 @@ In no event shall the licensor be liable for any claims, losses or damages arisi
 To the extent permitted by law, any further liability is excluded.
 
 Full licence text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+__________________________________________________________________________________________________________________________________________
+Additional exceptions to CC BY-NC 4.0 
+
+The following special provisions supplement the Creative Commons Attribution-NonCommercial 4.0 International Public Licence and take precedence over the other provisions of the licence in the respective area of application. Otherwise, the wording of CC BY-NC 4.0 remains unchanged.
+
+1. Exception for scientific use
+Scientific institutions, research institutions and individual researchers may use the work covered by this licence, as well as any modifications and extensions, without restriction for research and teaching purposes, including reproduction, distribution, editing, making publicly available and performance, even if this results in an economic advantage.
+
+This exception waives the non-commercial restriction under clause 4 (b) for the aforementioned purpose.
+
+2. Exemption for micro-enterprises
+Companies whose total annual turnover (including all affiliated companies) is less than 100,000€ may use the licensed work and derivative works thereof without restriction for any business or commercial purpose, including reproduction, distribution, adaptation, making available to the public and performance, even if this results in an economic advantage.
+
+This exception waives the non-commercial restriction under clause 4 (b) for the aforementioned group of persons.
