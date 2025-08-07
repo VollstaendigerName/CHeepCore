@@ -83,15 +83,6 @@ A minimalist, ultra-low-cost RISC-V development board based on the CH32V003 seri
 
 ---
 
-## Repository Contents
-
-```text
-/
-├── CHeepCore/       # KiCad schematic and PCB files   
-├── gerbers/         # Gerber export for fabrication   
-├── README.md        # This file  
-└── LICENSE.txt      # CC BY-NC 4.0  
-
 ## Author & License
 
    VollständigerName  GitHub: https://github.com/VollstaendigerName
@@ -101,3 +92,14 @@ A minimalist, ultra-low-cost RISC-V development board based on the CH32V003 seri
 
    This hardware specification and documentation have been prepared to the best of the author’s knowledge, but are provided without any warranty. The author accepts no liability for malfunctions, consequential damages, or any claims arising from the use of this information, the design, or the implemented hardware. Any liability is expressly excluded.
    </span></small>
+
+## Repository Contents
+
+```text
+/
+├── CHeepCore/       # KiCad schematic and PCB files
+├── Images/          # Images of the 3d Model
+├── production/      # Gerber export for fabrication   
+├── README.md        # This file  
+└── LICENSE.txt      # CC BY-NC 4.0  
+
