@@ -13,7 +13,7 @@ A minimalist, ultra-low-cost RISC-V development board based on the CH32V003 seri
 - **Date:** 2025-08-06  
 - **KiCad Version:** 9.0.3  
 - **Target Audience:** Embedded hobbyists, students, low-cost prototyping  
-- **Cost Goal:** Complete microcontroller board for under €0.50  
+- **Cost Goal:** Complete microcontroller board for under 0.50€  
 
 ---
 
@@ -29,6 +29,8 @@ A minimalist, ultra-low-cost RISC-V development board based on the CH32V003 seri
 - SWD/JTAG programming connectors (3-pin & 10-pin, WCH-LinkE compatible)  
 - Breadboard-compatible PCB outline (18.288 × 29.489 mm)  
 
+<img src="https://github.com/VollstaendigerName/CHeepCore/blob/main/Images/Screenshot%202025-08-07%20172010.png" alt="CHeepCore front" width="400" height="300" />
+
 ---
 
 ## Power Configuration
@@ -43,6 +45,8 @@ A minimalist, ultra-low-cost RISC-V development board based on the CH32V003 seri
 3. **MCU Voltage Selection**  
    - Default: 3.3 V  
    - For 5 V operation, cut the 3.3 V jumper (bottom side) and bridge the center pad to 5 V  
+
+<img src="https://github.com/VollstaendigerName/CHeepCore/blob/main/Images/Screenshot%202025-08-07%20172043.png" alt="CHeepCore back" width="400" height="300" />
 
 ---
 
