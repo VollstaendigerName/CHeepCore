@@ -82,6 +82,21 @@ A minimalist, ultra-low-cost RISC-V development board based on the CH32V003 seri
 | 15  | PC0        | T2CH3 / UTX                 | NSS / T1CH3                        |
 
 ---
+## Bill of Material (BoM)
+
+| Reference     | Qty | Unit Price (€) | Description                                     |
+|---------------|:---:|---------------:|-------------------------------------------------|
+| C101          |  1  |        0.0020  | YAGEO CC0603KRX7R7BB104 (100 nF, 0603)          |
+| C102, C103    |  2  |        0.0016  | YAGEO CC0603JRNPO9BN220 (22 pF, 0603)           |
+| C301, C302    |  2  |        0.0033  | Samsung CL10A105KB8NNNC (1 µF, 0603)            |
+| J301          |  1  |        0.0300  | SHOU HAN TYPE-C 16-PIN 2MD(073)                 |
+| R301, R302    |  2  |        0.0004  | VO SCR0603J5K1 (5.1 kΩ, 0603)                   |
+| U101          |  1  |        0.1599  | CH32V003F4U6 (32-bit RISC-V microcontroller)     |
+| U301          |  1  |        0.0047  | Megain MG6206K3B-33 (3.3 V LDO)                  |
+| Y101          |  1  |        0.0323  | TOGNJING XTM32024000DT00351001 (24 MHz crystal) |
+
+
+---
 
 ## Author & License
 
