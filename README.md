@@ -1,7 +1,9 @@
 # CHeepCore
 
 A minimalist, ultra-low-cost RISC-V development board based on the CH32V003 series. Designed for embedded hobbyists, students, and low-cost prototyping.
-![Logo CHeepCore]([images/Cheep.png](https://github.com/VollstaendigerName/CHeepCore/blob/main/Images/Cheep.png) "CHeepCore Logo")
+
+<img src="https://github.com/VollstaendigerName/CHeepCore/blob/main/Images/Cheep.png" alt="CHeepCore Logo" width="300" height="300" />
+
 ---
 
 ## Project Information
