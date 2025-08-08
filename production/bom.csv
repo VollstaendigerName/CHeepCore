@@ -3,6 +3,7 @@ C101,0603,1,100nF,https://www.lcsc.com/product-detail/C108079.html?s_z=n_CC0603K
 "C102, C103",0603,2,22pF,https://www.lcsc.com/product-detail/C105620.html
 "C301, C302",0603,2,1µF,https://www.lcsc.com/product-detail/C15849.html
 "J101, J102",PinSocket_1x10_P2.54mm_Vertical,2,Conn_01x10,
+J103,PinHeader_2x01_P1.00mm_Vertical_SMD,1,USB,
 J201,PinSocket_1x03_P2.54mm_Vertical,1,Conn_01x03,
 J301,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,USB_C_Receptacle_USB2.0_16P,https://www.lcsc.com/product-detail/C2765186.html?s_z=n_USB%2520C
 "R301, R302",0603,2,5k1,https://www.lcsc.com/product-detail/C3017721.html
